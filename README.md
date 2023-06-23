@@ -14,7 +14,7 @@ API_URL = os.environ["URL"]
 headers = {"Authorization": os.environ["API_KEY"]}
 my_secret = os.environ['DISCORD_BOT_SECRET']
 
-##After setting up the environment values, you can run the Python script by using the command:
+## After setting up the environment values, you can run the Python script by using the command:
 
 ```python
 python main.py
